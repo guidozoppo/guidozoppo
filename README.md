@@ -1,19 +1,16 @@
-# Hola, soy Guido
+# Hola, soy Guido 👋
 
 ## Sobre mí
 
-Soy desarrollador de software, egresado en la UNICEN como Técnico en Desarrollo de Aplicaciones Informáticas, con experiencia en desarrollo backend y bases de datos.
+Soy desarrollador de software, graduado en la UNICEN como Técnico en Desarrollo de Aplicaciones Informáticas egresado de UNICEN, con experiencia en el desarrollo, mantenimiento y evolución de aplicaciones empresariales.
 
-Actualmente trabajo con Java, Vaadin, SQL e Informix.
+Actualmente trabajo con tecnologías como Java, Vaadin, SQL e Informix, desarrollando nuevas funcionalidades y realizando tareas de mantenimiento sobre sistemas utilizados en entornos reales.
 
-Además, estoy ampliando mis conocimientos en:
+Además, participo en la migración de una aplicación desde LoopBack hacia NestJS, lo que me ha permitido profundizar mis conocimientos en arquitecturas modernas, APIs REST, validaciones, autenticación y buenas prácticas de desarrollo.
 
-* NestJS
-* PostgreSQL
-* Inteligencia artificial
-* Automatización
-* LLM
-* RAG
+En mi tiempo libre, continúo ampliando mis conocimientos en inteligencia artificial, automatización y desarrollo backend.
+
+---
 
 ## Tecnologías
 
@@ -23,6 +20,7 @@ Además, estoy ampliando mis conocimientos en:
 * JavaScript
 * NestJS
 * LoopBack
+* Node.js
 
 ### Bases de datos
 
@@ -30,32 +28,74 @@ Además, estoy ampliando mis conocimientos en:
 * PostgreSQL
 * Informix
 
+### Frontend
+
+* Vaadin
+* HTML
+* CSS
+* React
+
 ### Herramientas
 
 * Git
 * GitLab
 * Postman
 
+---
+
+## Experiencia
+
+### Desarrollo y mantenimiento de aplicaciones empresariales
+
+* Implementación de nuevas funcionalidades.
+* Corrección de errores.
+* Desarrollo de nuevas características.
+* Integración con bases de datos.
+* Optimización y mantenimiento del código.
+* Usando tecnologias como Java, Vaadin, Informix, SQL, Git y en ocasiones iReport.
+
+### Migración de aplicaciones heredadas
+
+* Migración de endpoints desde LoopBack hacia NestJS.
+* Refactorización del código.
+* Adaptación del modelo de datos.
+* Comparación de respuestas entre ambas APIs.
+* Validación del comportamiento para garantizar la compatibilidad.
+* Ademas de las mencionadas tecnologias, se usan Git y Postman.
+
+---
+
 ## Proyectos destacados
 
-### Migración de LoopBack a NestJS
+### Sales Control
 
-Migración de una aplicación heredada hacia una arquitectura moderna basada en NestJS.
+Aplicación para la gestión y el control de ventas.
 
-### Comparador de precios PDF + Excel
+### English With Cami
 
-Herramienta para extraer información desde archivos PDF, procesar datos y compararlos con archivos Excel.
+Desarrollo colaborativo de una plataforma educativa orientada a la enseñanza del idioma inglés.
 
-### Automatización con IA
+### LoopBack → NestJS
 
-Experimentos relacionados con modelos de lenguaje, automatización y generación de contenido.
+Participación en la migración de una aplicación heredada hacia una arquitectura moderna basada en NestJS.
+
+---
 
 ## Actualmente estoy aprendiendo
 
 * Inteligencia artificial aplicada al desarrollo de software.
 * Automatización de procesos.
-* Arquitectura backend.
-* Buenas prácticas.
+* Grandes modelos de lenguaje (LLM).
+* Sistemas RAG.
+* Integración de IA en aplicaciones.
+
+---
+
+## Contacto
+
+* GitHub: github.com/guidozoppo
+* LinkedIn: linkedin.com/in/guidozoppo/
+
 
 
 <!--
